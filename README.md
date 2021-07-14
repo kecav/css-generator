@@ -2,7 +2,7 @@
 
 **Box Shadow**
 
-![image](https://user-images.githubusercontent.com/78557222/125643840-45d2df11-5f95-4e76-bde0-b016f0953acd.png)
+![image](https://user-images.githubusercontent.com/78557222/125644326-7ddd4600-8854-4802-a396-238547f4ada8.png)
 
 
 *Supported Properties :*
