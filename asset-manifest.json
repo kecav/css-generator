@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/css-generator/static/css/main.554a4733.chunk.css",
+    "main.js": "/css-generator/static/js/main.55baa8e5.chunk.js",
+    "main.js.map": "/css-generator/static/js/main.55baa8e5.chunk.js.map",
+    "runtime-main.js": "/css-generator/static/js/runtime-main.37ac01d3.js",
+    "runtime-main.js.map": "/css-generator/static/js/runtime-main.37ac01d3.js.map",
+    "static/js/2.a99235f8.chunk.js": "/css-generator/static/js/2.a99235f8.chunk.js",
+    "static/js/2.a99235f8.chunk.js.map": "/css-generator/static/js/2.a99235f8.chunk.js.map",
+    "index.html": "/css-generator/index.html",
+    "static/css/main.554a4733.chunk.css.map": "/css-generator/static/css/main.554a4733.chunk.css.map",
+    "static/js/2.a99235f8.chunk.js.LICENSE.txt": "/css-generator/static/js/2.a99235f8.chunk.js.LICENSE.txt",
+    "static/media/clipboard.876fff2d.svg": "/css-generator/static/media/clipboard.876fff2d.svg",
+    "static/media/github-icon.791504c1.svg": "/css-generator/static/media/github-icon.791504c1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ac01d3.js",
+    "static/js/2.a99235f8.chunk.js",
+    "static/css/main.554a4733.chunk.css",
+    "static/js/main.55baa8e5.chunk.js"
+  ]
+}
