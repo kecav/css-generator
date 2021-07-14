@@ -1,0 +1,36 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem auto;
+    color: #fff;
+    /* background: #F44336; */
+}
+
+header h1 {
+    padding: 0.5rem 1rem;
+    transition: all 0.5s linear;
+    cursor: context-menu;
+}
+
+header h1:hover {
+    text-shadow: 1px 5px 0px red;
+}
+
+.nav-button {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background: #000000;
+    border-radius: 0.5rem;
+    transition: 0.3s background-color ease-in-out;
+}
+
+.nav-button:hover {
+    box-shadow: 0px 5px 10px #00000050;
+}

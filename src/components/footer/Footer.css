@@ -1,0 +1,30 @@
+.developer {
+    position: fixed;
+    padding: 0.5rem 1rem;
+    background: #1c1c1c;
+    bottom: 1rem;
+    right: 1rem;
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    grid-column-gap: 0.75rem;
+    column-gap: 0.75rem;
+    font-size: 1rem;
+}
+
+.github-icon {
+    background: #7388ff;
+    border-radius: 50%;
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+.developer:hover {
+    background-color: #000;
+    transition: 0.3s all ease-in-out;
+    border-radius: 0.5rem;
+    box-shadow: 0 5px 0px -1px #ff0000;
+}
